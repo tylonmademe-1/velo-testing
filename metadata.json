@@ -1,0 +1,6 @@
+{
+  "name": "mpvEx",
+  "description": "mpvExtended - Android media player based on mpv with Material 3 Expressive Design and advanced playback options",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
